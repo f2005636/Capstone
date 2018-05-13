@@ -5,5 +5,5 @@
 * K-means Clustering and Principal Component Analysis
 * 911 Calls Database: Feature engineering and data analysis
 * MoneyBall: Feature engineering and data analysis
-* MonthlyMilkProduction
+* Monthly Milk Production: Time series - ARIMA
 * Multi Class: K Nearest Neighbors, Decision Tree, and Random Forest
